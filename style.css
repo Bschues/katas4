@@ -1,0 +1,9 @@
+h3 {
+    text-decoration: underline;
+    color: rgb(113, 106, 212);
+}
+body {
+    background: linear-gradient(to bottom right, honeydew, rgb(31, 182, 182));
+    color: darkslategray;
+    height: 100%;
+}
